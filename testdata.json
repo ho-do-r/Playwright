@@ -1,0 +1,16 @@
+{
+    "username":"admin@gmail.com",
+    "password":"admin123",
+
+    "name":"Mohan",
+    "interests":["SQL","Js","AWS"],
+
+    "address":{
+
+                "city":"Pune",
+                "area":"Kalyani nagar",
+                "pin":"411047"
+             },
+
+    "id":"123"
+}
